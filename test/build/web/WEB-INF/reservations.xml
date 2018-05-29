@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="reservation.xsl"?>
+<reservations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/Users/zack/Desktop/test/src/java/reservationSchema.xsd">
+  <reservation>
+    <title>Harry-Potter</title>
+    <username>Zac</username>
+    <email>tom@tom.com</email>
+  </reservation>
+  <reservation>
+    <title>Harry Poter</title>
+    <username>lam</username>
+    <email>lam@gmail.com</email>
+  </reservation>
+  <reservation>
+    <title>Love</title>
+    <username>heng</username>
+    <email>heng@gmail.com</email>
+  </reservation>
+  <reservation>
+    <title>UTS</title>
+    <username>abc123</username>
+    <email>abc123@gmail.com</email>
+  </reservation>
+</reservations>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<users>
+    <user>
+        <email>ryan@ryanheise.com</email>
+        <name>ryan</name>
+        <password>blahblah</password>
+    </user>
+    
+    <user>
+        <email>joe@bloggs.com</email>
+        <name>joe</name>
+        <password>foobar</password>
+    </user>
+    
+    <user>
+        <email>tom@tom.com</email>
+        <name>tom</name>
+        <password>mmm</password>
+    </user>
+    
+    <user>
+        <email>lilpump@lilpump.com</email>
+        <name>lilpump</name>
+        <password>guccigang</password>
+    </user>
+</users>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/Users/zack/Desktop/test/src/java/bookSchema.xsd">
+  <book>
+    <title>Harry-Potter</title>
+    <author>J. K. Rowling</author>
+    <category>Novel</category>
+    <abstract>Magic</abstract>
+    <username>henry</username>
+    <id>1</id>
+    <isbn>1234</isbn>
+    <edition>6</edition>
+    <year>2015</year>
+    <publishername>tom</publishername>
+    <condition>Good</condition>
+    <availability>Available</availability>
+    <num>1</num>
+  </book>
+  <book>
+    <title>Love</title>
+    <author>Tallisha G.</author>
+    <category>Emotion</category>
+    <abstract>Love story</abstract>
+    <username>zack</username>
+    <id>2</id>
+    <isbn>5678</isbn>
+    <edition>7</edition>
+    <year>2018</year>
+    <publishername>asdf</publishername>
+    <condition>Good</condition>
+    <availability>Available</availability>
+    <num>1</num>
+  </book>
+  <book>
+    <title>Utsbook</title>
+    <author>uts</author>
+    <category>Education</category>
+    <abstract>school</abstract>
+    <username>Jason</username>
+    <id>3</id>
+    <isbn>6789</isbn>
+    <edition>4</edition>
+    <year>2012</year>
+    <publishername>yui</publishername>
+    <condition>Bad</condition>
+    <availability>Available</availability>
+    <num>1</num>
+  </book>
+  <book>
+    <title>Utsbook234</title>
+    <author>uts</author>
+    <category>Education</category>
+    <abstract>zxcv</abstract>
+    <username>Jason</username>
+    <id>4</id>
+    <isbn>6789</isbn>
+    <edition>4</edition>
+    <year>2012</year>
+    <publishername>yui</publishername>
+    <condition>Bad</condition>
+    <availability>Available</availability>
+    <num>1</num>
+  </book>
+</books>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <definitions 
+ xmlns="http://schemas.xmlsoap.org/wsdl/" 
+ xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" 
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+ xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" name="bookSoap" targetNamespace="http://soap.wsd.uts/" xmlns:tns="http://soap.wsd.uts/" xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:wsoma="http://schemas.xmlsoap.org/ws/2004/09/policy/optimizedmimeserialization" 
+ >
+    <portType name="bookSoap"/>
+    <binding name="bookSoapPortBinding" type="tns:bookSoap"></binding>
+    <service name="bookSoap">
+        <port name="bookSoapPort" binding="tns:bookSoapPortBinding"/>
+    </service>
+</definitions>
